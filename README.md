@@ -1,4 +1,4 @@
-Tasks and Ideas
+Tasks and Idea(s)
 =====
 
 This is a Running issue and idea list for our brigade
